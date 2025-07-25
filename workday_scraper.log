@@ -1,0 +1,29 @@
+2025-07-25 00:30:22,307 - INFO - Initializing browser...
+2025-07-25 00:30:23,934 - INFO - Analyzing URL: https://www.nvidia.com/en-in/about-nvidia/careers/
+2025-07-25 00:30:32,536 - INFO - Found potential entry point: Careers -> #careers
+2025-07-25 00:31:32,744 - INFO - Found potential entry point: Open Positions -> https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+2025-07-25 00:32:32,869 - INFO - Trying potential URL: https://www.nvidia.com/candidate
+2025-07-25 00:32:36,551 - INFO - Trying potential URL: https://www.nvidia.com/signin
+2025-07-25 00:32:39,631 - INFO - Trying potential URL: https://www.nvidia.com/login
+2025-07-25 00:32:43,671 - INFO - Trying potential URL: https://www.nvidia.com/en-in/about-nvidia/careers/
+2025-07-25 00:32:46,623 - WARNING - Could not find specific login URL, using original
+2025-07-25 00:32:46,623 - INFO - Attempting login at: https://www.nvidia.com/en-in/about-nvidia/careers/
+2025-07-25 00:32:50,286 - INFO - Trying login strategy 1...
+2025-07-25 00:33:00,304 - INFO - Trying login strategy 2...
+2025-07-25 00:33:10,318 - INFO - Trying login strategy 3...
+2025-07-25 00:33:20,332 - INFO - Trying login strategy 4...
+2025-07-25 00:33:30,346 - ERROR - All login strategies failed
+2025-07-25 00:33:30,346 - INFO - Available form elements on page:
+2025-07-25 00:33:30,460 - INFO -   Input: type=radio, automation-id=none, name=nv-tab-level-1, placeholder=none, visible=False
+2025-07-25 00:33:30,520 - INFO -   Input: type=radio, automation-id=none, name=nv-tab-level-1, placeholder=none, visible=False
+2025-07-25 00:33:30,574 - INFO -   Input: type=radio, automation-id=none, name=nv-tab-level-1, placeholder=none, visible=False
+2025-07-25 00:33:30,634 - INFO -   Input: type=text, automation-id=none, name=q, placeholder=Search NVIDIA, visible=False
+2025-07-25 00:33:30,699 - INFO -   Input: type=hidden, automation-id=none, name=searchPath, placeholder=none, visible=False
+2025-07-25 00:33:30,757 - INFO -   Input: type=text, automation-id=none, name=q, placeholder=Search NVIDIA, visible=False
+2025-07-25 00:33:30,817 - INFO -   Input: type=hidden, automation-id=none, name=searchPath, placeholder=none, visible=False
+2025-07-25 00:33:30,889 - INFO -   Input: type=checkbox, automation-id=none, name=ot-group-id-C0002, placeholder=none, visible=False
+2025-07-25 00:33:30,940 - INFO -   Input: type=checkbox, automation-id=none, name=ot-group-id-C0003, placeholder=none, visible=False
+2025-07-25 00:33:30,991 - INFO -   Input: type=checkbox, automation-id=none, name=ot-group-id-C0004, placeholder=none, visible=False
+2025-07-25 00:33:30,992 - ERROR - Failed to login, aborting crawl
+2025-07-25 22:03:04,293 - INFO - Initializing browser...
+2025-07-25 22:03:08,317 - INFO - Analyzing URL: https://www.nvidia.com/en-in/about-nvidia/careers/

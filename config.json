@@ -1,0 +1,10 @@
+{
+  "workday_url": "https://www.nvidia.com/en-in/about-nvidia/careers/",
+  "username": "rishavrajv255@gmail.com",
+  "password": "Tesla@3333Tesla@3333",
+  "headless": true,
+  "slow_mo": 100,
+  "max_pages": 2,
+  "timeout": 30000,
+  "wait_between_pages": 2000
+}
